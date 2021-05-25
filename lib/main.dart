@@ -76,7 +76,7 @@ class _MapScreenState extends State<MapScreen> {
                 primary: Colors.blue,
                 textStyle: const TextStyle(fontWeight: FontWeight.w600),
               ),
-              child: const Text('DEST'),
+              child: const Text('DESTInation'),
             )
         ],
       ),
